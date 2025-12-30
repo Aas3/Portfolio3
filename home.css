@@ -1,7 +1,7 @@
 /* ///////////////// General /////////////////*/
 .custom-cursor {
     cursor: url('images/icons8-cursor-49.png')20 20, auto ;
-    color: #DBDCF2;
+    color: #cacce7;
 } 
 a {
   cursor: url('images/icons8-select-cursor-48.png') 10 10, pointer;
@@ -189,7 +189,7 @@ header {
 .triangle {
     position: absolute;
     top: 130px;
-    left: 20%;
+    left: 10%;
     transform: translateX(-50%);
     width: 150px; /* Adjust size as needed */
     pointer-events: none;
