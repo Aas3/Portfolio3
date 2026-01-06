@@ -157,6 +157,7 @@ div{
 .intro{
     background-color: #060440;
     color: aliceblue;
+    /* font-style: bold; */
     padding-bottom: 0px;
 }
 .intro h2{
@@ -189,7 +190,7 @@ p{
 }
 li{
     line-height: 2;
-    color: #7E8FF2;
+    color: #F27E88;
     list-style:none;
     /* padding-left: ; */
 }
@@ -270,9 +271,9 @@ article{
 
 }
 .art h2{
-    color:#060440;
+    /* color:#060440;
     padding-left: 118px;
-    padding-top: 20px;
+    padding-top: 20px; */
 }
 .gallery{
     width: 400px;

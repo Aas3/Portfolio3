@@ -645,6 +645,7 @@ p{
     background-color: #060440;
     color: #F2F2F2;
     font-size: 15px;
+    /* font-weight: bold; */
     line-height: 1.5;
 
 }
@@ -699,10 +700,10 @@ p{
 }
 
 #comment{
-    color: #F97E7F;
+    color: #7E8FF2;
     text-align: center;
-    font-size: 20px;
-    background-color: rgba(126, 143, 242, 0.15);
+    font-size: 40px;
+    background-color: rgba(126, 143, 242, 0.05);
     padding-top: 20px;
 
     font-family: "Jua", sans-serif;
@@ -746,8 +747,8 @@ p{
 }
 
 .iconWords p {
-  font-size: 15px;
-  color: #7E8FF2;
+  font-size: 20px;
+  color: #F27E88;
 
 font-family: "Jua", sans-serif;
    font-weight: 100px;
@@ -835,6 +836,10 @@ font-family: "Jua", sans-serif;
 }
 .art h2{
     /* padding-top: 20px; */
+    font-family: "Secular One", sans-serif;
+    
+    
+
     padding: 50px;
     text-align: center;
     color:#060440;
