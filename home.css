@@ -189,7 +189,7 @@ header {
 .triangle {
     position: absolute;
     top: 130px;
-    left: 10%;
+    left: 5%;
     transform: translateX(-50%);
     width: 150px; /* Adjust size as needed */
     pointer-events: none;
@@ -219,8 +219,8 @@ header {
 
     position: absolute;
     bottom: -25px;
-    right: -53%;
-    width: 400px;
+    right: -50%;
+    width: 360px;
     max-width: 40vw;
     pointer-events: none;
     animation: float 3s ease-in-out infinite;
@@ -675,7 +675,6 @@ p{
 }
 
 
-
 /* ////////////////////// 1ST SECTION - MY BIO */
 
 #about{
@@ -700,7 +699,7 @@ p{
 }
 
 #comment{
-    color: #7E8FF2;
+    color: #BDD959;
     text-align: center;
     font-size: 40px;
     background-color: rgba(126, 143, 242, 0.05);
